@@ -2,7 +2,7 @@
 Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge (Parallelized with OpenACC),
 Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta (Paralelizada con OpenACC).
 
-![15.6.NT8100](Images/15.6.NT8100.png)
+![15.6.NT8100](Images/15.6.NT8100.png){:width="200px"}
 
 1. ![Mov_Browniano](Images/1.Mov_Browniano.png)
 2. ![10.1.NT1](Images/10.1.NT1.png)
