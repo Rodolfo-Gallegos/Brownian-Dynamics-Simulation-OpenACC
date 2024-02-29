@@ -1,6 +1,14 @@
 # Simulation of an electrolyte parallelized with OpenACC
-Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge (Parallelized with OpenACC),
+Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge (Parallelized with OpenACC).
+
+To run the simulation, you need to have [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html) installed, which you can download [here](https://developer.nvidia.com/hpc-sdk).
+
+
+Español:
+
 Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta (Paralelizada con OpenACC).
+
+To run the simulation, you need to have [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html) installed, which you can download [here](https://developer.nvidia.com/hpc-sdk).
 
 
 <div style="display: flex; flex-wrap: wrap;">
