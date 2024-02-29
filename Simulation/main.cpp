@@ -54,8 +54,8 @@ int main(){
     const int N = 1272;                                         // Número de iones
     const int qM = -100;                                        // Carga Macroion
 
-
-    const long int it = 3e8;                                    // Número de iteraciones Macroion (it > im * 10)
+    // it = 3e8 for good statistics 
+    const long int it = 3e6;                                    // Número de iteraciones Macroion (it > im * 10)
     const int tam_dr = (Rc-R)*16;                               // Número de capas que van del macroion al cascarón
     
     feenableexcept(FE_DIVBYZERO | FE_INVALID | FE_OVERFLOW);    // Busca errores en las operaciones
