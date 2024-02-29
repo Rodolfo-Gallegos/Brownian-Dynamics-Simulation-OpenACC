@@ -7,7 +7,8 @@ In the [thesis](Tesis_Rodolfo.pdf) you can find all the information about the si
 Español:
 
 Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta (Paralelizada con OpenACC).
-En la [tesis](Tesis_Rodolfo.pdf) puedes encontrar toda la información sobre el programa de simulación, como el marco teórico, las herramientas utilizadas, los algoritmos, las pruebas y algunos resultados de tiempo de ejecución así como el comportamiento de la simulación. En la [tesis](Tesis_Rodolfo.pdf) puedes encontrar toda la información sobre el programa de simulación, como el marco teórico, las herramientas utilizadas, los algoritmos, las pruebas y algunos resultados de tiempo de ejecución así como el comportamiento de la simulación.
+En la [tesis](Tesis_Rodolfo.pdf) puedes encontrar toda la información sobre el programa de simulación, como el marco teórico, las herramientas utilizadas, los algoritmos, las pruebas y algunos resultados de tiempo de ejecución así como el comportamiento de la simulación. Para ejecutar la simulación necesitas tener instalado [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html), lo puedes descargar [aquí](https://developer.nvidia.com/hpc-sdk).
+
 
 
 
