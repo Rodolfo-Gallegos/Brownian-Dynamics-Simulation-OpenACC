@@ -5,7 +5,7 @@ In the [thesis](Tesis_Rodolfo.pdf) you can find all the information about the si
 
 The aim of this study was to analyze the behavior of an electrolyte around a macroion with discrete charge composed of different types of charges (negative and positive), as even with the same net charge, the behavior differs.
 
-Rodríguez Gallegos, E. R. (2023). *Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge* [Bachelor's thesis, Universidad Autónoma de San Luis Potosí]. GitHub Repository. [Link](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
+Rodríguez Gallegos, E. R. (2023). *Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge* [Bachelor's thesis, Universidad Autónoma de San Luis Potosí]. GitHub Repository. [https://github.com/Rodolfo-Gallegos/electrolyte_simulation](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 
 Español:
@@ -15,7 +15,7 @@ En la [tesis](Tesis_Rodolfo.pdf) puedes encontrar toda la información sobre el 
 
 El objetivo de este trabajo fue analizar el comportamiento de un electrolito en presencia de un macroión con carga discreta, compuesta por diferentes tipos de carga (negativa y positiva). Se observó que, incluso con la misma carga neta, el comportamiento del sistema varía significativamente.
 
-Rodríguez Gallegos, E. R. (2023). *Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta* [Tesis de licenciatura, Universidad Autónoma de San Luis Potosí]. Repositorio GitHub. [Enlace](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
+Rodríguez Gallegos, E. R. (2023). *Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta* [Tesis de licenciatura, Universidad Autónoma de San Luis Potosí]. Repositorio GitHub. [https://github.com/Rodolfo-Gallegos/electrolyte_simulation](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 
 Below are some images of the simulation visualized with Jmol ([Jmol](https://jmol.sourceforge.net/)):
