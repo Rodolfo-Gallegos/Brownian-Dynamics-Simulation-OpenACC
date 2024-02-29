@@ -1,4 +1,6 @@
 # Simulation of an electrolyte parallelized with OpenACC
+
+<div style="text-align: justify;">
 Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge (Parallelized with OpenACC).
 In the [thesis](Tesis_Rodolfo.pdf) you can find all the information about the simulation program, such as the theoretical framework, the tools used, the algorithms, the tests, and some runtime results as well as the behavior of the simulation. To run the simulation, you need to have [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html) installed, which you can download [here](https://developer.nvidia.com/hpc-sdk).
 
@@ -16,7 +18,7 @@ El objetivo de este trabajo fue analizar el comportamiento de un electrolito en 
 Rodríguez Gallegos, E. R. (2023). Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta (112 páginas). Recuperado de [https://github.com/Rodolfo-Gallegos/electrolyte_simulation](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 Below are some images of the simulation visualized with Jmol ([Jmol](https://jmol.sourceforge.net/)):
-
+</div>
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="Images/15.6.NT8100.png" alt="Electrolito alrededor de un macroion que tiene su carga distribuida en 8100 sitios de la superficie de una esfera" width="500" style="margin-right: 10px;">
