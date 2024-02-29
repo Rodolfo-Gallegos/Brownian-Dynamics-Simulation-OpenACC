@@ -5,7 +5,7 @@ In the [thesis](Tesis_Rodolfo.pdf) you can find all the information about the si
 
 The aim of this study was to analyze the behavior of an electrolyte around a macroion with discrete charge composed of different types of charges (negative and positive), as even with the same net charge, the behavior differs.
 
-Rodríguez Gallegos, E. R. (2023). *Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge* [Bachelor's thesis, Autonomous University of San Luis Potosí]. GitHub Repository. [Link](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
+Rodríguez Gallegos, E. R. (2023). *Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge* [Bachelor's thesis, Universidad Autónoma de San Luis Potosí]. GitHub Repository. [Link](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 
 Español:
