@@ -4,6 +4,7 @@ In the [thesis](Tesis_Rodolfo.pdf) you can find all the information about the si
 
 The aim of this study was to analyze the behavior of an electrolyte around a macroion with discrete charge composed of different types of charges (negative and positive), as even with the same net charge, the behavior differs.
 
+Rodríguez Gallegos, E. R. (2023). Brownian dynamics simulation of an electrolyte confined around a macroion with discrete charge (112 pages). Retrieved from [https://github.com/Rodolfo-Gallegos/electrolyte_simulation](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 Español:
 
@@ -11,6 +12,8 @@ Simulación de dinámica browniana de un electrolito confinado alrededor de un m
 En la [tesis](Tesis_Rodolfo.pdf) puedes encontrar toda la información sobre el programa de simulación, como el marco teórico, las herramientas utilizadas, los algoritmos, las pruebas y algunos resultados de tiempo de ejecución así como el comportamiento de la simulación. Para ejecutar la simulación necesitas tener instalado [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html), lo puedes descargar [aquí](https://developer.nvidia.com/hpc-sdk).
 
 El objetivo de este trabajo fue analizar el comportamiento de un electrolito en presencia de un macroión con carga discreta, compuesta por diferentes tipos de carga (negativa y positiva). Se observó que, incluso con la misma carga neta, el comportamiento del sistema varía significativamente.
+
+Rodríguez Gallegos, E. R. (2023). Simulación de dinámica browniana de un electrolito confinado alrededor de un macroion con carga discreta (112 páginas). Recuperado de [https://github.com/Rodolfo-Gallegos/electrolyte_simulation](https://github.com/Rodolfo-Gallegos/electrolyte_simulation).
 
 Below are some images of the simulation visualized with Jmol ([Jmol](https://jmol.sourceforge.net/)):
 
