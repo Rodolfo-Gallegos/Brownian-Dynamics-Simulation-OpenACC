@@ -4,7 +4,7 @@ mkdir Salidas
 
 # Para Boltzmann, Ampere y FJEstrada
 
-banderas="nvc++ -g -O3 -acc=gpu -Mpreprocess -gpu=cc86 -lcurand -alias-ansi -Minfo=accel -mp main.cpp Thomson.cpp Macroion.cpp -o $1_OpenACC"
+banderas="nvc++ -g -O3 -acc=gpu -Mpreprocess -gpu=cc86 -lcurand -fstrict-aliasing -Minfo=accel -mp main.cpp Thomson.cpp Macroion.cpp -o $1_OpenACC"
 
 
 # Compila el programa
